@@ -1,0 +1,20 @@
+h1{
+  font-size: 80px;
+  text-align: center;
+}
+h3{
+  font-size: 35px;
+  font-style: oblique;
+  font-weight: bold;
+} 
+figure img{
+  width: 400px;
+  height: 200;
+  border: 2px black solid
+}
+ .container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  height: 300vh;    
+}
